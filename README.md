@@ -1,3 +1,3 @@
 # EPFL_AMR
 Directory for my EPFL research internship.
-Check out the .docx to read the intership report.
+The .docx describe the first 2 month of the project.
